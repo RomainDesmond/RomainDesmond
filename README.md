@@ -19,5 +19,5 @@ You can click the Preview link to take a look at your changes.
 
 **Skills**
 
-![Python](https://github.com/RomainDesmond/Images/Python.png)
+![Python](https://github.com/RomainDesmond/Images/Python.png?raw=true)
 **Contact**
