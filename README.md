@@ -12,10 +12,12 @@ You can click the Preview link to take a look at your changes.
 --->
 **PORTFOLIO**
 
-**À propos de moi**
+**About me**
+-Computer science student at IUT Limoges
 
-**Projets**
+**Projects**
 
-**Compétences**
+**Skills**
 
+![Python](https://github.com/RomainDesmond/Images/Python.png)
 **Contact**
