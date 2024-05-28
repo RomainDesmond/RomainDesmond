@@ -16,7 +16,18 @@ You can click the Preview link to take a look at your changes.
 -Computer science student at IUT Limoges
 
 **Projects**
+Python:
+
+Java:
+
+Linux:
+
+BDD:
 
 **Skills**
+<br />
 ![Python](https://github.com/RomainDesmond/Images/blob/main/Python.png?raw=false)
+<br />
 **Contact**
+romain.desmond@etu.unilim.fr
+romain.desmond@gmail.com
