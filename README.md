@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 -Computer science student at IUT Limoges
 
 **Projects**
+
 Python:
 
 Java:
