@@ -58,5 +58,4 @@
 
 ## 🔗 Me contacter
 
-- **Téléphone** : 07 69 45 77 19
 - **Email** : romain.desmond@etu.unilim.fr
