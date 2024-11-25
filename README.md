@@ -60,4 +60,3 @@
 
 - **Téléphone** : 07 69 45 77 19
 - **Email** : romain.desmond@etu.unilim.fr
-- **Adresse** : 7 Rue Rude, 87000 Limoges, France
